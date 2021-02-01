@@ -1,0 +1,18 @@
+.compare {
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+}
+
+.compare__image-wrapper {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 50%;
+    overflow: hidden;
+}
+
+.compare__image{
+    display: block;
+}
